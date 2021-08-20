@@ -1,11 +1,11 @@
-# Article on: GETTING STARTED WITH CONDA
+# 🚀 Article on: GETTING STARTED WITH CONDA
 ___
----
+
 ### To Read The Article Click here: [`Goutham-Article@medium`][4]
 ---
 ![article about Conda On Medium By Sai Goutham](https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/55131310/8187ca4bfc6442dc9ebbcae0334f2819/1.png?token-time=1630713600&token-hash=WR9ZnccR-1-nPQYqJkfTRn8RRIAEAwAEcboNQFQB-no%3D)
 
-### What will you learn from reading this article?
+## What will you learn from reading this article?
 - 📌 About Anaconda
 - 📌 Installing Anaconda in your Computer
 - 📌 About Conda package
