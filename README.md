@@ -2,8 +2,7 @@
 ```
 Welcome to My Articles Repo, In this repo i upload the links of the articles that i have written
 ```
-- ### 🗯 I write my articles at Medium [`Goutham-article@Medium`](https://www.medium.com/@gouthamgosh10) 
-- ### 🗯 Also visit my DEV.to Feed too [`Goutham@DEV.to`](https://www.dev.to/gouthique))
+- ### 🗯 Visit my blog for my articles [`Goutham-article@Medium`](https://gouthamcodes.hashnode.dev/) 
 ---
 ![Goutham](https://raw.githubusercontent.com/Gouthique/Languages_tools_misc/main/all_platforms.png?token=AQRWYRY5OFMC4TTS6P2JNF3BD7UJ4)
 ---
