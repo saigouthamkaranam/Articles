@@ -8,9 +8,7 @@ Welcome to My Articles Repo, In this repo i upload the links of the articles tha
 ---
 ---
 ✨[`My Blog`](https://gouthamcodes.hashnode.dev)✨
-[`Linkedin`](https://linkedin.com/in/saigouthamkaranam)✨  
-[`Github`](https://www.github.com/saigouthamkaranam)✨
-[`Behance`](https://www.behance.net/gouthamgosh) ✨
+[`Linkedin`](https://linkedin.com/in/saigouthamkaranam)✨ [`Github`](https://www.github.com/saigouthamkaranam)✨ [`Behance`](https://www.behance.net/gouthamgosh) ✨
 
 <!-- [`Hacker-Rank`](https://www.hackerrank.com/Gouthique) ✨ 
 [`Patreon`](https://www.patreon.com/Goutham) ✨
