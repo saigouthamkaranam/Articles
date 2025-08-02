@@ -4,7 +4,7 @@ Welcome to My Articles Repo, this is a backup repo for my arctiles/blogposts.
 ```
 - ### 🗯 Visit my blog for my articles [`Goutham-article@Medium`](https://gouthamcodes.hashnode.dev/) 
 ---
-![Goutham](https://raw.githubusercontent.com/Gouthique/Languages_tools_misc/main/all_platforms.png?token=AQRWYRY5OFMC4TTS6P2JNF3BD7UJ4)
+![Goutham](https://raw.githubusercontent.com/Gouthique/Languages_tools_misc/main/all_platforms.png)
 ---
 ---
 ✨[`My Blog`](https://gouthamcodes.hashnode.dev)✨
