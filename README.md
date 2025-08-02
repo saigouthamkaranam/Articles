@@ -1,6 +1,6 @@
 # 🚀 My Articles
 ```
-Welcome to My Articles Repo, In this repo i upload the links of the articles that i have written
+Welcome to My Articles Repo, this is a backup repo for my arctiles/blogposts.
 ```
 - ### 🗯 Visit my blog for my articles [`Goutham-article@Medium`](https://gouthamcodes.hashnode.dev/) 
 ---
